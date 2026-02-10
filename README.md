@@ -16,8 +16,7 @@ This project demonstrates how to deploy a secure and scalable WordPress applicat
 * ✅ Dedicated MySQL user/database for security (Not using Root).
 * ✅ Proper file permission management for Apache.
 
-## Installation Steps | خطوات العمل
-
+## Installation Steps 
 ### 1. Prerequisite
 * AWS Account.
 * Terminal / Git Bash.
